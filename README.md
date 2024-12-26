@@ -24,7 +24,9 @@
 > Створіть віртуальне середовище та активуйте його (рекомендується):
 
 python -m venv venv
+
 source venv/bin/activate # Linux/MacOS
+
 .\venv\Scripts\activate # Windows
 
 > Встановіть необхідні бібліотеки:
